@@ -28,5 +28,6 @@ tf-keras
 tensorflow
 numpy
 opencv-python
+Required folder in the same file as the script: imgtest (can be empty)
 
 NOTE - mobile port is still in development. However, it already works!
