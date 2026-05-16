@@ -29,4 +29,4 @@ tensorflow
 numpy
 opencv-python
 
-NOTE - mobile port is still in development. However, it still works!
+NOTE - mobile port is still in development. However, it already works!
