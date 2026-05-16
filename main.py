@@ -948,7 +948,7 @@ def main(page: ft.Page):
                 scroll=ft.ScrollMode.AUTO,
                 controls=[
                     make_header(on_logo_click=lambda e: show_home_screen()),
-                    ft.Text("War Threat Detection", size=22, weight=ft.FontWeight.BOLD, color=TEXT_DARK),
+                    ft.Text("Threat Detection", size=22, weight=ft.FontWeight.BOLD, color=TEXT_DARK),
                     ft.Container(
                         height=200, width=300, bgcolor=TILE_BLUE,
                         border_radius=ft.BorderRadius(20, 20, 20, 20),
